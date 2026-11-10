@@ -19,5 +19,3 @@ It's built for wireframe and topology showcases, clean screenshots, and screen r
 - It works on the viewport you're hovering over, and each viewport remembers its own original settings.
 - The saved state is kept in memory only. If you restart Blender while clean mode is on, it can't restore your old settings automatically.
 - Tested on Blender 5.1.2. Settings that don't exist in your Blender version are skipped without an error.
-
-If you want it shorter for a store page, or a one-line version for a GitHub repo, I can trim it.
